@@ -1,0 +1,1 @@
+B:\Azure PowerShell\x64\Release\Azure PowerShell.exe

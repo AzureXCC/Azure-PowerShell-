@@ -1,0 +1,17 @@
+﻿  FunFun.c
+B:\Azure PowerShell\FunFun.c(27,7): warning C4101: “sex”: 未引用的局部变量
+B:\Azure PowerShell\FunFun.c(27,15): warning C4101: “age”: 未引用的局部变量
+B:\Azure PowerShell\FunFun.c(28,7): warning C4101: “ID”: 未引用的局部变量
+B:\Azure PowerShell\FunFun.c(269,63): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+B:\Azure PowerShell\FunFun.c(414,63): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+B:\Azure PowerShell\FunFun.c(523,7): warning C4101: “nodeCountArr”: 未引用的局部变量
+  Main Scene.c
+  正在生成代码
+  Previous IPDB not found, fall back to full compilation.
+B:\Azure PowerShell\FunFun.c(199): warning C4716: “CreateNode”: 必须返回一个值
+B:\Azure PowerShell\FunFun.c(160): warning C4716: “DisplayMenu_noHub”: 必须返回一个值
+B:\Azure PowerShell\FunFun.c(240): warning C4716: “AddPerson”: 必须返回一个值
+B:\Azure PowerShell\FunFun.c(110): warning C4716: “DisplayMenu”: 必须返回一个值
+  All 28 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  Azure PowerShell.vcxproj -> B:\Azure PowerShell\x64\Release\Azure PowerShell.exe
